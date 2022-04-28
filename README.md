@@ -1,6 +1,6 @@
 # BBC Article Sentiment Analysis
 
-Utilize GCP services (Machine Learning API, Cloud Storage) and Spreedsheets to conduct Sentiment Analysis on BBC article data. The goal was to explore if the category of a article will affect it's sentiment score.
+Utilized GCP services (Machine Learning API, Cloud Storage) and Spreedsheets to conduct Sentiment Analysis on BBC article data. The goal was to explore if the category of a article will affect it's sentiment score.
 
 ## Data
 We used a public dataset from the BBC comprised of 2225 articles, each labeled under one of 5 categories: business, entertainment, politics, sport or tech.
