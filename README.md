@@ -9,3 +9,9 @@ The dataset is broken into 1490 records for training and 735 for testing.
 
 data source:
 https://www.kaggle.com/competitions/learn-ai-bbc/overview
+
+
+## Google NLP API
+We used the Natural Language API to perform sentiment analysis on each of the article text data.
+API information:
+https://cloud.google.com/natural-language/docs/analyzing-sentiment
